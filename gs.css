@@ -34,6 +34,12 @@
     color: rgb(239, 18, 18);
 }
 
+.SPAR{
+    font-family:"Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(173, 239, 18);
+}
+
 .PRET{
     font-family: "Times New Roman", Times, serif;
     font-size: 15px;
@@ -51,4 +57,21 @@
     font-size: 25%;
     color: pink;
 }
+
+table,td,th{
+    border: 1px solid black;
+    width: 35%;
+    text-align: center;
+    padding: 20px;
+    color:  rgb(15, 104, 84);
+
+}
+
+th{
+    color:coral;
+}
+
+tr:nth-child(even) {
+    background-color: #eadada;
+  }
 
