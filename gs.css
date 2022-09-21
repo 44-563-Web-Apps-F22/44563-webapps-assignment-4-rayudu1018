@@ -1,18 +1,18 @@
 .speech{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 13px;
     color: black;
 }
 
 .song{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 13px;
     color: black;
 }
 
 .direction{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 13px;
     color: black;
     background-color: aquamarine;
 }
@@ -24,30 +24,31 @@
 
 .name{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
+    font-size: 13px;
     color: black;
 }
 
 .SILL{
-    font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 50px;
-    color: silver;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(239, 18, 18);
 }
 
 .PRET{
-    font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 50px;
-    color: blanchedalmond;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(13, 215, 218);
 }
 
 .Chorus{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 47px;
+    font-size: 25%;
     color: blue;
 }
 
 .Girls{
-    font-family: "Lucida Console", "Courier New", monospace;
-    font-size: 47px;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 25%;
     color: pink;
 }
+
