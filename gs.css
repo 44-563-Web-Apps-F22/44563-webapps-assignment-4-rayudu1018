@@ -1,0 +1,53 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.song{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+    background-color: aquamarine;
+}
+
+.direction:hover{
+    color: white;
+    background-color: maroon;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.SILL{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+    color: silver;
+}
+
+.PRET{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+    color: blanchedalmond;
+}
+
+.Chorus{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 47px;
+    color: blue;
+}
+
+.Girls{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 47px;
+    color: pink;
+}
