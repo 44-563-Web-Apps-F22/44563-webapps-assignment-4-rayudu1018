@@ -34,6 +34,11 @@
     color: rgb(239, 18, 18);
 }
 
+.SILL:hover,.SPAR:hover,.PRET:hover{
+    box-shadow: 10px 10px 5px black;
+    border: 5px solid greenyellow;
+}
+
 .SPAR{
     font-family:"Times New Roman", Times, serif;
     font-size: 15px;
